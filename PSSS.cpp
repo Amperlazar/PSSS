@@ -30,7 +30,7 @@ void subsetSums(int arr[], int l, int r, int sum)
     subsetSums(arr, l + 1, r, sum);
 }
 
-// Driver code
+
 int main()
 {
     cout << "output: ";
