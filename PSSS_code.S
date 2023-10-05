@@ -18,7 +18,6 @@ space: .string " "
 
 .text
 .global _start
-# Start your coding below, don't change anything upper except testing different testcase
 
 _start:
     # Print delimiter string (output:) by setting ecall argument to 4
