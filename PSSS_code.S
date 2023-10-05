@@ -1,4 +1,3 @@
-# Reference: https://www.geeksforgeeks.org/print-sums-subsets-given-set/
 .data
 .align 4
 # =========testcase1===========
